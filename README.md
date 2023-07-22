@@ -4,7 +4,7 @@
 
 ## 👨🏻‍💻 About Me:
 
-- 🙋‍♂️ All about me is at **[My Website](https://shu4bham.vercel.app/)**
+- 🙋‍♂️ All about me is at **[My Website](https://shu4bham.live/)**
 
 - 🔭 I’m currently working on `Something Intresting`.
 
