@@ -45,3 +45,10 @@
 <a href="https://t.me/Shu4bham" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" height ="30px"/></a>
 </p>
 
+<br>
+<h2>😄 Have Fun </h2>
+<br>
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+</p>
+
