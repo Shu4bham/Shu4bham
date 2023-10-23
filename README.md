@@ -55,7 +55,7 @@
 <hr>
 
 # 📊 Github Activity:
-<table>
+<table style="border-collapse: collapse; border : none;">
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=Shu4bham&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shu4bham&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
