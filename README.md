@@ -37,6 +37,10 @@
  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
 </p>
 
+
+## Holopin Board
+[![An image of @shu4bham's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shu4bham)](https://holopin.io/@shu4bham)
+
 ## ❤️ Let's get connected:
 
 <p><a href="https://shu4bham.vercel.app/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Shu4bham.tech-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a> <a href="https://twitter.com/shu4bham" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/shu4bham/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>  <a href="https://www.instagram.com/shu4bham" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
