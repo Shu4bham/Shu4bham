@@ -67,11 +67,4 @@
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shu4bham&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
    </tr>
 </table>
-  
-
-<h2>😄 Have Fun </h2>
-<br>
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
-</p>
 
